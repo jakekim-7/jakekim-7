@@ -4,6 +4,10 @@ window.PORTFOLIO_DATA = {
     {
       name: "코딩 3등급",
       date: ""
+    },
+    {
+      name: "ABC 1등급",
+      date: ""
     }
   ],
   awards: [],
